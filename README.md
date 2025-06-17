@@ -1,4 +1,4 @@
-# WasteSort-AI-Waste-Classification 
+# EU COVID-19 Azure Data Lakehouse | Jan 2024 – Mar 2024
 > **One-click Azure solution that ingests COVID‑19 open data for 30 EU/EEA countries + UK, cleans & unifies > 2 million rows / day, models a star‑schema in Synapse Analytics that answers BI queries in < 3 seconds, and powers daily‑refreshed Power BI dashboards.**
 
 ---
